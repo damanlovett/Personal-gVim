@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='ftp://edlovett@lovettcreations.org:21/'
+let g:netrw_dirhist_2='ftp://edlovett@lovettcreations.org:21/public_html/'
+let g:netrw_dirhist_3='ftp://edlovett@lovettcreations.org:21/public_html/ca/'
+let g:netrw_dirhist_4='ftp://edlovett@lovettcreations.org:21/public_html/ca/uab/'
+let g:netrw_dirhist_5='ftp://edlovett@lovettcreations.org:21/public_html/ca/partners/'
