@@ -172,6 +172,11 @@ nmap <C-j> <C-w>j
 nmap <C-k> <C-w>k
 nmap <C-l> <C-w>l
 
+" open in large window
+:winpos 50 50
+:set lines=50
+:set columns=80
+
 "------------------------"
 "NERDTREE PLUGIN SETTINGS
 "------------------------"
